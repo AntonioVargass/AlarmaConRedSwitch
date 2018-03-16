@@ -45,3 +45,9 @@ Con el potenciometro se regula la frecuencia que tiene el sonido proveniente del
 
 Todo esto se realizó con la ayuda las licencias de código libre de arduino y del simulador multísim. 
 
+-CONCLUSION 
+
+En lo personal esta practica me gusto mucho ya que nos demustra como crear tecnología de la vida actual y saber  aprovechar los recursos que tenemos, uno de ellos es el reed swicht que nos sirvió de mucha ayuda para la practica, sin mencionar la plataforma arduino que se pueden hacer muchas cosas con ella. 
+
+
+
