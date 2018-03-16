@@ -2,7 +2,7 @@
 
 PRACTICA ALARMA CON RED SWITCH
 
-Nombre 
+Nombre: 
 Vargas Arevalo Juan Antonio
 
 
