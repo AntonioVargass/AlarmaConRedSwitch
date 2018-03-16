@@ -10,7 +10,7 @@ Fecha
 15 de marzo de 2018
 
 
-Material
+Material:
 -Protobot
 -Arduino genuino 
 -Leds 
@@ -23,6 +23,7 @@ Material
 
 
 OBJETIVO
+
 El objetivo de esta practica es simular una alarma primordialmete con el componente Reed Swicht
 
 
