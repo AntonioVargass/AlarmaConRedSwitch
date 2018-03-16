@@ -39,7 +39,7 @@ Buzzer
 Zumbador, buzzer en inglés, es un transductor electroacústico que produce un sonido o zumbido continuo o intermitente de un mismo tono.  Es un tipo de altavoz basado en la propiedades de los cristales piezoeléctricos (poliéster o cerámica), que se deforman cuando se les aplica una tensión entre sus caras y que actuando como transductor electroacústico es utilizado para la reproducción de sonido.
 
 
-En esta practica se simuló una alarma con el reed switch  y los componentes mencionados entre ellos se conecto un protobot con las indicaciones que vienen en el codigo, con un imán tocando el reed switch la puerta permanece cerrada, cuando se retira el imán el reed switch manda la alerta de sonido y la alarma simulada con el buzzer empieza a sonar simulando que la puerta fue abierta acompañada de un led que se emciende y se apaga.
+En esta practica se simuló una alarma con el reed switch  y los componentes mencionados entre ellos se conecto un protobot con las indicaciones que vienen en el codigo, con un imán tocando el reed switch la puerta permanece cerrada, cuando se retira el imán el reed switch manda la alerta de sonido y la alarma simulada con el buzzer empieza a sonar simulando que la puerta fue abierta acompañada de un led que se enciende y se apaga.
 
 Con el potenciometro se regula la frecuencia que tiene el sonido proveniente del buzzer haciendolo más débil o más fuerte. 
 
